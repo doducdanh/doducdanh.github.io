@@ -1,2 +1,3 @@
-# doducdanh.github.io
-Do Duc Danh [ Admin ]
+Chán quá 
+mới học lập trình :))
+
